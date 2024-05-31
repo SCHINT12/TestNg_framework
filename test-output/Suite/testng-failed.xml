@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite]">
+  <test thread-count="5" name="test(failed)">
+    <parameter name="testcasenumber" value="TC6"/>
+    <classes>
+      <class name="tests.createaccounttest">
+        <methods>
+          <include name="config"/>
+          <include name="aftermethod"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- tests.createaccounttest -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [suite] -->
