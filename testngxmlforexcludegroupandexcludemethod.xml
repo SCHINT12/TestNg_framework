@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<test name="test">
+<classes>
+<run>
+<groups>
+<exclude name="B"/>
+</groups>
+</run>
+<class name="tutorialstestng.test"/>
+<methods>
+<exclude name="a3"/>
+</methods>
+
+
+</classes>
+</test>
+</suite>

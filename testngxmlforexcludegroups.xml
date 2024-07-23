@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test">
+<test name="test">
+<classes>
+<class name="tutorialstestng.groupingtestcases"/>
+<groups>
+<run>
+<exclude name="E2E"/>
+</run>
+</groups>
+</classes>
+
+</test>
+
+</suite>

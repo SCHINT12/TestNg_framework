@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<test name="test">
+<classes>
+<parameter name="tc" value="TC16"/>
+<class name="tests.facebook_createaccounttest"/>
+</classes>
+</test>
+<test name="test1">
+<classes>
+<parameter name="tc" value="TC20"/>
+<class name="tests.facebook_createaccounttest"/>
+</classes>
+</test>   
+</suite>

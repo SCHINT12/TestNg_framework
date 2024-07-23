@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<test name="test">
+<classes>
+<parameter name="username" value="su"/>
+<parameter name="password" value="gw"/>
+<class name="tutorialstestng.testng_parameters"/>
+
+</classes>
+</test>
+</suite>
